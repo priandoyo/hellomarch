@@ -1,0 +1,2 @@
+Connect to git: git clone git@github.com:priandoyo/hellomarch.git
+Get git repository: git clone git@github.com:priandoyo/hellomarchm.git
