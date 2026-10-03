@@ -25,7 +25,7 @@ HTML = """
     </style>
 </head>
 <body>
-    <h1>🏦 MiniBank-ABC</h1>
+    <h1>🏦 MiniBank-ABC by Anjar running at port 5002</h1>
     <p>Simple banking application for a web/API workshop</p>
 
     {% if message %}
@@ -403,4 +403,4 @@ def api_transfer():
 
 if __name__ == "__main__":
     init_db()
-    app.run(host="0.0.0.0", port=5000)
+    app.run(host="0.0.0.0", port=5002)
