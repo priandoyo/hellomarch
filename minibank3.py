@@ -9,7 +9,7 @@ HTML = """
 <!doctype html>
 <html>
 <head>
-    <title>MiniBank-ABC</title>
+    <title>MiniBank-ABC by Anjar (Sat 3 Oct 2026)</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body { font-family: Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 20px; background:#f5f5f5; }
