@@ -1,4 +1,4 @@
-```python
+python
 from flask import Flask
 
 app = Flask(__name__)
@@ -94,4 +94,3 @@ def robots():
 
 
 app.run(host="0.0.0.0", port=5000)
-```
